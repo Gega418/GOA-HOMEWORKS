@@ -1,0 +1,47 @@
+#hello {
+    text-decoration: underline dotted green;
+    text-align: right;
+}
+
+#world {
+    text-decoration: line-through;
+    text-align: center;
+}
+
+#goal {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#best {
+    color: gray;
+    text-decoration: overline gray;
+    text-align: center;
+}
+
+#equals {
+    color: red;
+}
+
+#academy {
+    text-decoration: line-through black;
+}
+
+#oriented {
+    text-decoration: line-through dotted green;
+}
+
+#the {
+    color: green;
+    text-decoration: overline green;
+    text-align: right;
+}
+
+#one {
+    text-decoration: underline dotted green;
+    text-align: right;
+}
+
+#is {
+    text-decoration: overline;
+}

@@ -1,0 +1,14 @@
+#wavy {
+    text-decoration: underline wavy green; 
+    color: black;
+}
+
+#dashed {
+    text-decoration: underline overline dashed red;
+    color: black;
+}
+
+#line-through {
+    text-decoration: line-through blue;
+    color: black;
+}
